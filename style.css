@@ -118,6 +118,7 @@ button:hover {
     /* height: 474px; */
     padding: 15px 15px 33px 15px;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    margin-left: 12%;
 }
 
 .info img {
@@ -210,8 +211,8 @@ footer p {
     }
 
     .half_width img {
-        width: 329px;
-        height: 259.17px;
+        width: 176%;
+        height: auto;
         /* margin: 50px 16px 62px 15px; */
         /* padding: 0; */
         padding-top: 50px;
@@ -227,7 +228,7 @@ footer p {
     }
 
     .container {
-        width: 80%;
+        width: 100%;
         /* padding: 47px 2px 43px 9px; */
         margin-top: 47px;
         /* padding-bottom: 43px; */
@@ -243,7 +244,11 @@ footer p {
         /* justify-content: center; */
         /* width: 80%; */
     }
-
+    .info{
+        margin-left: 2%;
+        margin-right: 2%;
+        width: 100%;
+    }
     /* Footer Part */
 
     footer {
@@ -278,16 +283,3 @@ footer p {
 
 
 
- /* footer .s_media_icons {
-        margin: 29px 95px 20px;
-        /* margin-top: 29px;
-        margin-bottom: 20px; */
-        /* margin-left: auto;
-        margin-right: auto; */
-        /* gap: 13px; */
-        /* text-align: center; */
-     */
-    /* footer .fa-brands{
-        justify-content: center;
-        align-items: center;
-    }  */
